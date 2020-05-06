@@ -1,0 +1,20 @@
+INFO:root:Wed May  6 12:24:22 2020 | Client with Ip: 127.0.0.1 | Port: 64353 is trying to connect to server
+INFO:root:Wed May  6 12:24:22 2020 | recived Syn from| Client : 127.0.0.1 | Port: 64353
+INFO:root:Wed May  6 12:24:22 2020 | Server Sending Syn-Ack to 127.0.0.1
+INFO:root:Wed May  6 12:24:22 2020 | recived Ack from | Client : 127.0.0.1 | Port: 64353
+INFO:root:Wed May  6 12:24:22 2020 | Server and client Connected
+INFO:root:Wed May  6 12:25:11 2020 | Client with Ip: 127.0.0.1 | Port: 56204 is trying to connect to server
+INFO:root:Wed May  6 12:25:11 2020 | recived Syn from| Client : 127.0.0.1 | Port: 56204
+INFO:root:Wed May  6 12:25:11 2020 | Server Sending Syn-Ack to 127.0.0.1
+CRITICAL:root:Wed May  6 12:25:11 2020 | A Client with diffrent ip tried to loggin bypass three way handshake.Hacker ip: b'192.168.1.99'
+INFO:root:Wed May  6 12:30:57 2020 | Client with Ip: 127.0.0.1 | Port: 60294 is trying to connect to server
+INFO:root:Wed May  6 12:30:57 2020 | recived Syn from| Client : 127.0.0.1 | Port: 60294
+INFO:root:Wed May  6 12:30:57 2020 | Server Sending Syn-Ack to 127.0.0.1
+INFO:root:Wed May  6 12:30:57 2020 | recived Ack from | Client : 127.0.0.1 | Port: 60294
+INFO:root:Wed May  6 12:30:57 2020 | Server and client Connected
+INFO:root:Wed May  6 12:31:44 2020 | Client with Ip: 127.0.0.1 | Port: 58456 is trying to connect to server
+INFO:root:Wed May  6 12:31:44 2020 | recived Syn from| Client : 127.0.0.1 | Port: 58456
+INFO:root:Wed May  6 12:31:44 2020 | Server Sending Syn-Ack to 127.0.0.1
+INFO:root:Wed May  6 12:31:44 2020 | recived Ack from | Client : 127.0.0.1 | Port: 58456
+INFO:root:Wed May  6 12:31:44 2020 | Server and client Connected
+INFO:root:Wed May  6 12:31:55 2020 | Disconnected from  | Client : 127.0.0.1 | Port: 58456
